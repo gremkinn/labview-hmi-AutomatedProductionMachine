@@ -163,3 +163,19 @@ c) Reference & Research: While coding, it was important to refer to the laborato
 d) Code Organization: LabView can get very confusing very fast if one is does not organize their code from the beginning. It’s easy to lose track of what is where and what is doing what otherwise. Relying on the “Clean Up Diagram” option was not enough, as we would very quickly lose sight of what was where. Hence, we both made sure to track our functions and keep our code organized while we worked.  
 
 e) Project Planning: It was crucial that we decided what we wanted to do, how we were going to do and decide on our project flow at the beginning so that we had something to refer to when we were lost. This included drawing up draft flowcharts and/or pseudo-codes to give us some direction. 
+
+## Appendix
+
+#### New_System.vi
+
+<img src="documentation/hmi_bottle_production.jpg" alt="Bottle Production HMI" width="600"/>
+<img src="documentation/hmi_cap_sealer.jpg" alt="Bottle Cap Sealer HMI" width="600"/>
+<img src="documentation/labview_code1.jpg" alt="LabView Code" width="800"/>
+<img src="documentation/labview_code2.jpg" alt="LabView Code" width="800"/>
+<img src="documentation/labview_code3.jpg" alt="LabView Code" width="800"/>
+<img src="documentation/labview_code4.jpg" alt="LabView Code" width="800"/>
+
+#### Existing_System.vi
+
+<img src="documentation/ex_cap_sealer.jpg" alt="Existing Bottle Cap Sealer" width="600"/>
+<img src="documentation/labview_code5.jpg" alt="LabView Code" width="800"/>
